@@ -13,3 +13,5 @@
 6-firstdirectory
 
 7-movethatfile
+
+8-firstdelete
