@@ -6,3 +6,5 @@
 1-confused_smiley: Second tsk is to Write a script that displays a confused smiley "(Ôo)'
 
 3-twofiles: Display the content of /etc/passwd and /etc/hosts
+
+4-lastlines : isplay the last 10 lines of /etc/passwd
